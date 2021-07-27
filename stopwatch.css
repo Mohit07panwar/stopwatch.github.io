@@ -1,0 +1,29 @@
+#body
+{
+    background-color:rgba(0, 0, 0, 0.637);
+}
+#h
+{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.877);
+    font-style:normal;
+}
+#h1
+{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.822);
+    font-style: normal;
+}
+#display
+{
+    text-align: center;
+    color:rgba(255, 127, 80, 0.815)
+  
+}
+
+.button
+{
+    text-align: center;
+    
+    
+}
